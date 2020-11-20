@@ -46,3 +46,7 @@
 ## Publish to npm
 
   Run `npm run build-lib` followed by `npm publish`
+
+## Test
+
+  Run `npm start` to see the app based upon this library
